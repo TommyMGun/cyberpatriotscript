@@ -2,7 +2,7 @@
 Automating the competition since 2019
 
 (Windows)
-Step 1: Install Python 3.7.x make sure to say yes when it asks to add to windows path file
+Step 1: Install Python 3.7.5 make sure to say yes when it asks to add to windows path file
 Step 2: open cmd in administrator mode, navigate to the repository directory and type "pip install -r reqirements.txt"
 step 3: run my handy dandy python script
 
